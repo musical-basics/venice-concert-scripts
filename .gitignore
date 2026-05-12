@@ -1,0 +1,30 @@
+# Video / audio source + output (push only non-video assets)
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.aiff
+*.flac
+
+# DAW / NLE project files
+*.als
+*.logicx
+*.sib
+*.fcpbundle
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
